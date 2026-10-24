@@ -2,7 +2,7 @@
 
 Five free maps were downloaded for copying a wooden house into The Other. They are used with the separate **HouseCopy** mod, not with The Other.
 
-The archives are stored locally in `../maps/` (inside the Mods workspace). A ready-to-copy kit is at `../HouseCopyKit/`. The map archives are **not committed** to the HouseCopy repository (third-party content).
+The archives are stored locally in `../The Other/maps/` (inside the Mods workspace). A ready-to-copy kit is at `../HouseCopyKit/`. The map archives are **not committed** to the HouseCopy repository (third-party content).
 
 ## The five maps
 
@@ -36,7 +36,7 @@ Data versions were read from each `level.dat`:
 Unzip each archive into the instance's `saves/` folder. Each archive already contains a top-level world folder.
 
 ```bash
-for archive in ../maps/*.zip; do
+for archive in "../The Other"/maps/*.zip; do
   unzip -q "$archive" -d "/path/to/.minecraft/saves"
 done
 ```
