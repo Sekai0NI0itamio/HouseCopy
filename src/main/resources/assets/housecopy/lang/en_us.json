@@ -1,0 +1,5 @@
+{
+  "housecopy.command.export.success": "Saved %s (%sx%sx%s) to housecopy-exports/%s.nbt",
+  "housecopy.command.export.too_large": "Selection too large. Maximum is %s blocks per axis.",
+  "housecopy.command.export.failed": "Export failed: %s"
+}
