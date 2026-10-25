@@ -100,3 +100,18 @@ This kit contains **only HouseCopy** and the world saves. It does not contain Th
 - Cozy Cake House: <https://www.9minecraft.net/cozy-cake-house-map/>
 - Planet Minecraft install guide: <https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-maps/>
 - Minecraft Wiki, structure block: <https://minecraft.wiki/w/Structure_Block>
+
+
+## Old tower / lighthouse kit
+
+A second single-folder kit is available at `../OldTowerKit/`: only HouseCopy plus five older-themed worlds.
+
+| Folder | Style | Data version |
+| --- | --- | --- |
+| `Roman Lighthouse` | Roman lighthouse plus monument | Older (upgrades) |
+| `Lighthouse of Trinea` | Solitary beacon on an island | 1.20.1 |
+| `Medieval Fantasy Tower` | Medieval fantasy tower | 1.20.1 |
+| `Medieval Fantasy Mountain Castle` | Mountain castle with towers | 1.20.1 |
+| `Simple Towers II` | Simple tower set | Older (upgrades) |
+
+Use this kit when you want a tower, watch tower, or lighthouse instead of a modern survival house. You can make the builds look older in-game by replacing blocks, adding moss, cracks, vines, or weathering before exporting.
